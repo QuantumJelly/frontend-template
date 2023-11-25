@@ -1,0 +1,5 @@
+{
+  "counter.increment": "增加",
+  "counter.decrement": "减少",
+  "counter.value": "计数器：{value}"
+}
